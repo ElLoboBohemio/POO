@@ -1,14 +1,14 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">POO</h1>
+<h1 align="center">Starbuck Landing Page</h1>
 
 <div align="center">
-   POO example  <a href="https://www.youtube.com/watch?v=nqre9kKFRpc" target="_blank">Fazt</a>.
+  Personal Proyect : D
 </div>
 
-<h2 align="center">Link to <a href="https://codepen.io/bohemiolobo/full/rNyJBPr" target="_blank">Demo</a></h2>
+<h2 align="center">Link to <a href="https://codepen.io/bohemiolobo/full/bGqqXBo" target="_blank">Demo</a></h2>
 
-<a href="https://codepen.io/bohemiolobo/full/ExmxBpP" target="_blank"><img src="https://i.postimg.cc/T2VRmg9Q/3.png" alt="Website preview"></a>
+<a href="https://codepen.io/bohemiolobo/full/bGqqXBo" target="_blank"><img src="https://i.postimg.cc/xjM1sWht/Starbucks.png" alt="Website preview"></a>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -28,7 +28,10 @@ You are going to be able to create and eliminate elements with its own name, pri
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Boostrap 5](https://getbootstrap.com/)
+- [GSAP](https://greensock.com/gsap/)
+- [Webpack](https://webpack.js.org/)
+- [Node.js](https://nodejs.org/es/)
+- [JSON](https://www.json.org/json-en.html)
 - [Git](https://git-scm.com/)
 
 ## Contact
