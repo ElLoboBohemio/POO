@@ -28,7 +28,7 @@ You are going to be able to create and eliminate elements with its own name, pri
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [JSON](https://www.json.org/json-en.html)
+- [Boostrap](https://getbootstrap.com/)
 - [Git](https://git-scm.com/)
 
 ## Contact
